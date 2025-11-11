@@ -1,1 +1,1 @@
-# Metodos-Numericos-de-otimizaco
+# Metodos-Numericos-de-otimizacao
